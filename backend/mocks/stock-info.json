@@ -1,0 +1,9 @@
+{
+  "body": "{\"symbols\": [\"AMD\",\"IBM\",\"AAPL\"]}",
+  "queryStringParameters": {"symbols": "AMD,IBM,AAPL"},
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "TestUser1234"
+    }
+  }
+}
